@@ -38,6 +38,10 @@ local.properties
 # node.js
 #
 node_modules/
+android/app/build/
+ios/Pods/
+*.log
+.env
 npm-debug.log
 yarn-error.log
 
