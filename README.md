@@ -24,6 +24,18 @@
 
 ---
 
+## 🧪 Instalación local
+
+Clona el repositorio y ejecuta los siguientes comandos:
+
+```bash
+git clone https://github.com/jocesman/mytodo.git
+cd mytodo
+npm install
+npx react-native run-android
+```
+---
+
 ## 📚 Aprendizajes y desafíos
 
 ✔️ Esta práctica me permitió reforzar conceptos clave de React Native como la gestión de estado, renderizado condicional, FlatList, dimensiones de pantalla y estilos nativos.  
@@ -45,13 +57,4 @@ Puedes ver más sobre mis proyectos o contactarme en:
 Si este proyecto te inspira o deseas colaborar, ¡hazme un fork o contáctame!
 
 
-## 🧪 Instalación local
-
-Clona el repositorio y ejecuta los siguientes comandos:
-
-```bash
-git clone https://github.com/jocesman/mytodo.git
-cd mytodo
-npm install
-npx react-native run-android
 
